@@ -5,7 +5,7 @@ Repo for the Group Projected To Be Submitted for the Practicum-1(CSL306) course.
 Group Number: 111
 
 List of Group Members:
-- Rajkamal Shakya (11911069 | CSE)
+- Raj Kamal Shakya (11911069 | CSE)
 - Harshit Joshi (11911020 | CSE)
 - Ayush Singh (11911004 | CSE)
 
